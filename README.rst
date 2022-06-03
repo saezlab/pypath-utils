@@ -1,12 +1,7 @@
 ################
-Download manager
+Pypath utilities
 ################
 
-A download manager that
-
-- Is a flexible interface to ``curl``, providing direct access to the most
-  important options
-- Handles cookies and some authentication
-- Caches the downloaded contents
-- Checks for and attempts to mitigate download errors
-- Opens the downloaded files, extracts archives, reads XLS, etc.
+Standalone utilities that were formerly part of ``pypath``. These are
+molecular biology computational tools with a well definied purpose, such as
+identifier translation, orthology translation, taxonomy support, etc.
